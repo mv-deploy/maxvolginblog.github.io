@@ -10,20 +10,25 @@ title:
 
 <div class="d-flex flex-wrap gap-3 mt-4">
 
-  <div class="border border-2 rounded p-3 bg-body-tertiary text-body-emphasis shadow-sm" style="min-width: 200px;">
-    <h5 class="mb-1">Swift</h5>
-    <p class="mb-0 small">Основы, OOP, структуры, замыкания</p>
+  <div class="card bg-light text-dark shadow-sm" style="min-width: 200px;">
+    <div class="card-body">
+      <h5 class="card-title">Swift</h5>
+      <p class="card-text">Основы, OOP, структуры, замыкания</p>
+    </div>
   </div>
 
-  <div class="border border-2 rounded p-3 bg-body-tertiary text-body-emphasis shadow-sm" style="min-width: 200px;">
-    <h5 class="mb-1">Xcode</h5>
-    <p class="mb-0 small">UI, Storyboard, симулятор, дебаг</p>
+  <div class="card bg-light text-dark shadow-sm" style="min-width: 200px;">
+    <div class="card-body">
+      <h5 class="card-title">Xcode</h5>
+      <p class="card-text">UI, Storyboard, симулятор, дебаг</p>
+    </div>
   </div>
 
-  <div class="border border-2 rounded p-3 bg-body-tertiary text-body-emphasis shadow-sm" style="min-width: 200px;">
-    <h5 class="mb-1">UIKit</h5>
-    <p class="mb-0 small">Создание экранов, элементы интерфейса</p>
+  <div class="card bg-light text-dark shadow-sm" style="min-width: 200px;">
+    <div class="card-body">
+      <h5 class="card-title">UIKit</h5>
+      <p class="card-text">Создание экранов, элементы интерфейса</p>
+    </div>
   </div>
 
 </div>
-
