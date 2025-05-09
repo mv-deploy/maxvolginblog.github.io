@@ -8,26 +8,22 @@ title:
 ## 💻 Мои навыки
 {: .mt-4 }
 
-<div style="display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 1rem;">
+<div class="d-flex flex-wrap gap-3 mt-4">
 
-  <div style="flex: 1 1 200px; background: #f5f5f5; padding: 1rem; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); transition: transform 0.2s;">
-    <h3 style="margin-top: 0;">Swift</h3>
-    <p>Основы синтаксиса, структуры данных, OOP, работа с Xcode</p>
+  <div class="border border-2 rounded p-3 bg-body-tertiary text-body-emphasis shadow-sm" style="min-width: 200px;">
+    <h5 class="mb-1">Swift</h5>
+    <p class="mb-0 small">Основы, OOP, структуры, замыкания</p>
   </div>
 
-  <div style="flex: 1 1 200px; background: #f5f5f5; padding: 1rem; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); transition: transform 0.2s;">
-    <h3 style="margin-top: 0;">UIKit</h3>
-    <p>Создание UI вручную, работа с ViewController, Auto Layout</p>
+  <div class="border border-2 rounded p-3 bg-body-tertiary text-body-emphasis shadow-sm" style="min-width: 200px;">
+    <h5 class="mb-1">Xcode</h5>
+    <p class="mb-0 small">UI, Storyboard, симулятор, дебаг</p>
   </div>
 
-  <div style="flex: 1 1 200px; background: #f5f5f5; padding: 1rem; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); transition: transform 0.2s;">
-    <h3 style="margin-top: 0;">Git</h3>
-    <p>Коммиты, ветки, pull-requests, работа с GitHub</p>
-  </div>
-
-  <div style="flex: 1 1 200px; background: #f5f5f5; padding: 1rem; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); transition: transform 0.2s;">
-    <h3 style="margin-top: 0;">Figma</h3>
-    <p>Чтение макетов, экспорт ассетов, pixel-perfect</p>
+  <div class="border border-2 rounded p-3 bg-body-tertiary text-body-emphasis shadow-sm" style="min-width: 200px;">
+    <h5 class="mb-1">UIKit</h5>
+    <p class="mb-0 small">Создание экранов, элементы интерфейса</p>
   </div>
 
 </div>
+
